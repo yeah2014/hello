@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T16:49:02.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QA7RXX_eM9763K3PTvE2" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T16:54:22.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DXs3Nst91jrUdNq2G7KG" version="21.7.5" type="github">
   <diagram name="Page-1" id="poiYl7lY78SkH9BJexyd">
-    <mxGraphModel dx="707" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="596" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="pJmVzuFnKgR2we7lgGVu-91" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center; line-height: 200%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;起夜模式&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;触发方式：开关按键&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;打开卫生间门口灯、卫生间灯、排气扇&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;fontFamily=Comic Sans MS;glass=0;shadow=0;spacingTop=0;spacingLeft=10;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="140" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pJmVzuFnKgR2we7lgGVu-92" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center; line-height: 200%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;起床模式&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;起床模式&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;触发方式：开关按键/小爱同学/定时&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;打开房间窗帘&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;fontFamily=Comic Sans MS;glass=0;shadow=0;spacingTop=0;spacingLeft=10;spacing=2;" vertex="1" parent="1">
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-92" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center; line-height: 200%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;起床模式&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;触发方式：开关按键/小爱同学/定时&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;打开房间窗帘&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;fontFamily=Comic Sans MS;glass=0;shadow=0;spacingTop=0;spacingLeft=10;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="880" y="140" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pJmVzuFnKgR2we7lgGVu-95" value="玄关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
@@ -212,16 +212,25 @@
           <mxGeometry x="1220" y="600" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pJmVzuFnKgR2we7lgGVu-160" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="840" width="520" height="240" as="geometry" />
+          <mxGeometry x="150" y="840" width="310" height="240" as="geometry" />
         </mxCell>
         <mxCell id="pJmVzuFnKgR2we7lgGVu-162" value="智能开关 x 9 = 1350������" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180" y="870" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJmVzuFnKgR2we7lgGVu-163" value="电动窗帘 x 2 = 2000������" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-163" value="电动窗帘 x 2 = 1000������" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180" y="910" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pJmVzuFnKgR2we7lgGVu-164" value="小爱音箱 x 1 = 2000������" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="180" y="950" width="180" height="30" as="geometry" />
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-164" value="小爱音箱 x 1 = 80������" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="180" y="950" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-165" value="小米摄像头 x 1 = 99������" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="180" y="990" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-166" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="880" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-167" value="&lt;font color=&quot;#ff0000&quot;&gt;2529&lt;/font&gt;������" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="930" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
