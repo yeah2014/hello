@@ -1,9 +1,213 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T14:49:29.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.7.5" etag="xC3axMezI4AqE4gpn7ze" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T15:35:41.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C-ZebrO8SXJ2rbiF0BCD" version="21.7.5" type="github">
   <diagram name="Page-1" id="poiYl7lY78SkH9BJexyd">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-1" value="回家模式&lt;br&gt;触发方式：开关按键/小爱同学/门窗传感器&lt;br&gt;打开玄关、餐厅、客厅、阳台灯&lt;br&gt;打开窗帘、打开空调、摄像头关闭安防模式" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-6" value="离家模式&lt;br&gt;触发方式：开关按键/小爱同学/门窗传感器&lt;br&gt;关闭玄关、餐厅、客厅、阳台灯&lt;br&gt;关闭窗帘、关闭空调、摄像头启动安防模式" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-7" value="回房模式&lt;br&gt;触发方式：开关按键/小爱同学&lt;br&gt;关闭玄关、餐厅、客厅、阳台灯、关闭客厅窗帘&lt;br&gt;打开房间窗帘、空调、灯" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-8" value="睡眠模式&lt;br&gt;触发方式：开关按键/小爱同学/定时&lt;br&gt;关闭房间窗帘、灯&lt;br&gt;空调调到26度" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-9" value="起夜模式&lt;br&gt;触发方式：开关按键&lt;br&gt;打开卫生间门口灯、卫生间灯、排气扇&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-10" value="起床模式&lt;br&gt;触发方式：开关按键/小爱同学/定时&lt;br&gt;打开房间窗帘&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-11" value="智&lt;br&gt;能&lt;br&gt;开&lt;br&gt;关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="50" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-12" target="pJmVzuFnKgR2we7lgGVu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-12" target="pJmVzuFnKgR2we7lgGVu-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-12" target="pJmVzuFnKgR2we7lgGVu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-12" target="pJmVzuFnKgR2we7lgGVu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-12" target="pJmVzuFnKgR2we7lgGVu-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-12" value="玄关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-14" target="pJmVzuFnKgR2we7lgGVu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-14" value="四开" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-15" value="玄关灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-18" value="客厅灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-19" value="回家模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-20" value="离家模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-25" target="pJmVzuFnKgR2we7lgGVu-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-25" target="pJmVzuFnKgR2we7lgGVu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-25" target="pJmVzuFnKgR2we7lgGVu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-25" target="pJmVzuFnKgR2we7lgGVu-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-25" value="客厅" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-26" target="pJmVzuFnKgR2we7lgGVu-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-26" value="三开" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-27" value="客厅灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-28" value="客厅氛围灯带" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-29" value="餐厅灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-30" value="回房模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-36" target="pJmVzuFnKgR2we7lgGVu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-36" value="阳台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-37" value="一开" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-38" value="电动窗帘控制面板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-39" value="阳台灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-41" value="窗帘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-47" target="pJmVzuFnKgR2we7lgGVu-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-47" target="pJmVzuFnKgR2we7lgGVu-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-47" target="pJmVzuFnKgR2we7lgGVu-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-47" target="pJmVzuFnKgR2we7lgGVu-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-47" target="pJmVzuFnKgR2we7lgGVu-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-47" value="厨房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-49" target="pJmVzuFnKgR2we7lgGVu-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-49" value="四开" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-50" value="厨房灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-51" value="餐厅灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-52" value="客厅氛围灯&lt;br&gt;(预设、可改)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-53" value="凉霸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-62" target="pJmVzuFnKgR2we7lgGVu-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-62" target="pJmVzuFnKgR2we7lgGVu-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-62" target="pJmVzuFnKgR2we7lgGVu-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-62" target="pJmVzuFnKgR2we7lgGVu-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-62" value="书房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-64" target="pJmVzuFnKgR2we7lgGVu-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-64" value="三开" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-65" value="书房灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-66" value="书房氛围灯带" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-67" value="书房过道灯&lt;br&gt;（书房门口）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-73" target="pJmVzuFnKgR2we7lgGVu-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-73" target="pJmVzuFnKgR2we7lgGVu-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-73" target="pJmVzuFnKgR2we7lgGVu-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-73" target="pJmVzuFnKgR2we7lgGVu-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-73" value="主卧室" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-75" target="pJmVzuFnKgR2we7lgGVu-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-75" value="三开*2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-76" value="卧室灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-77" value="卧室氛围灯带" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-78" value="睡眠模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
