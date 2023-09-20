@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T15:35:41.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C-ZebrO8SXJ2rbiF0BCD" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T16:06:19.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZqVc6_HPJ5l_8Ofhmymj" version="21.7.5" type="github">
   <diagram name="Page-1" id="poiYl7lY78SkH9BJexyd">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -203,10 +203,34 @@
           <mxGeometry x="1060" y="820" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pJmVzuFnKgR2we7lgGVu-77" value="卧室氛围灯带" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="820" width="100" height="50" as="geometry" />
+          <mxGeometry x="1180" y="820" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pJmVzuFnKgR2we7lgGVu-78" value="睡眠模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="820" width="100" height="50" as="geometry" />
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-78" value="卧室吊灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-79" value="睡眠模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-80" value="起床模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-81" value="起夜模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-83" value="电动窗帘控制面板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pJmVzuFnKgR2we7lgGVu-85" target="pJmVzuFnKgR2we7lgGVu-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-85" value="次卧" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-86" value="一开*2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pJmVzuFnKgR2we7lgGVu-87" value="次卧灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="820" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
