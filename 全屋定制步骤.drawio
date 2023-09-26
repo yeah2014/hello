@@ -1,9 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T15:15:21.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.7.5" etag="wBfTfs6bRw4Es2sKBLVt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T16:05:01.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EbHExPpDgh4ms1J8HG95" version="21.7.5" type="github">
   <diagram name="Page-1" id="AOEZhsFo3bDTTdRkhpfu">
-    <mxGraphModel>
+    <mxGraphModel dx="1590" dy="2180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-91" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-35.5" width="715" height="1075" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-3" target="BMgH8p3W_9_EgIB9k5e4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-3" target="BMgH8p3W_9_EgIB9k5e4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-3" value="交定金" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-4" target="BMgH8p3W_9_EgIB9k5e4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-4" target="BMgH8p3W_9_EgIB9k5e4-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-4" value="上门量尺" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-6" target="BMgH8p3W_9_EgIB9k5e4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-6" target="BMgH8p3W_9_EgIB9k5e4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-6" value="出设计方案" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="284" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-8" target="BMgH8p3W_9_EgIB9k5e4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-8" target="BMgH8p3W_9_EgIB9k5e4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-8" value="板材选定" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="378" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-10" target="BMgH8p3W_9_EgIB9k5e4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-10" target="BMgH8p3W_9_EgIB9k5e4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-10" value="签合同" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="473" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-12" target="BMgH8p3W_9_EgIB9k5e4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-12" target="BMgH8p3W_9_EgIB9k5e4-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-12" value="板材进场后&lt;br&gt;一定要验收" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="567" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-14" target="BMgH8p3W_9_EgIB9k5e4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-14" target="BMgH8p3W_9_EgIB9k5e4-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-14" value="师傅进场安装" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="662" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-16" target="BMgH8p3W_9_EgIB9k5e4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-16" target="BMgH8p3W_9_EgIB9k5e4-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-16" value="最终验收" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="756" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-18" target="BMgH8p3W_9_EgIB9k5e4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-18" target="BMgH8p3W_9_EgIB9k5e4-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-18" value="甲醛检测" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-20" target="BMgH8p3W_9_EgIB9k5e4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-20" value="通风" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="945" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-32" value="步骤 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-42" value="步骤 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="865" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-44" value="步骤 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="109" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-45" value="步骤 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="204" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-46" value="步骤 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="298" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-47" value="步骤 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="393" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-48" value="步骤 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="487" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-49" value="步骤 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="582" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-50" value="步骤 8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="676" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-51" value="步骤 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="771" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-52" value="定金一般不可退，所以选装修公司的时候要谨慎" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="85" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-54" value="入住前擦拭柜子，常通风" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="935" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-55" value="这一步需要在天花完成之后&lt;br&gt;想要尺寸更准确，一定要复尺" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="179" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-56" value="这个整个流程中最重要的一步！&lt;br&gt;每个细节都不能放过" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="274" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-57" value="板材种类很多，有颗粒板，实木板等，建议按需选择&lt;br&gt;板材饰面和封边技术按个人喜好来&lt;br&gt;环保等级选E0级别&lt;br&gt;选完板材要留下样板，方便后面到货验收" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="369" y="368" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-58" value="有些装修公司的合同很粗略，可以网上找全面一点的合同，甚至要把约定好的细节都写在合同上！并且约定好交付时间，延期赔款比例等。" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="463" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-59" value="留下之前选择的样板，对比板材的颜色，封边等&lt;br&gt;量板材厚度，门板背板底板厚度都不同&lt;br&gt;板材切面看板材种类是否货对版&lt;br&gt;板材是否在运输途中有磨损" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="557" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-60" value="人一定要在场！人一定要在场！人一定要在场！&lt;br&gt;有些师傅真的“很有想法”，不按图纸来，最后返工真的欲哭无泪" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="652" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-61" value="验收门的开合是否顺畅&lt;br&gt;悬空柜是否牢固&lt;br&gt;抽屉导轨是否顺滑等" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="746" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-62" value="安装之前约定的板材环保等级，密闭柜子12小时&lt;br&gt;检测甲醛含量，E0级别的板材甲醛释放量应该符合标准" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="841" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-82" target="BMgH8p3W_9_EgIB9k5e4-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="BMgH8p3W_9_EgIB9k5e4-82" target="BMgH8p3W_9_EgIB9k5e4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-82" value="选装修公司" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;flipV=0;flipH=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-83" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;对比多家公司，最好选择靠谱的工厂，还要询问板材的品牌&lt;/p&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;align=center;spacingTop=0;spacing=2;spacingLeft=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-10" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMgH8p3W_9_EgIB9k5e4-89" value="步骤 11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=14;flipV=0;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="960" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
